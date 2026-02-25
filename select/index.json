@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウェディングしよっ！",
+  "base_artist": "夏色まつり",
+  "createdAt": "2026-02-25T11:00:32.402415Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウェディングしよっ!",
+      "artist": "夏色まつり",
+      "has_synced": false,
+      "path": "select/pl_01_ウェディングしよっ!_夏色まつり.txt"
+    }
+  ]
+}
